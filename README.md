@@ -1,6 +1,6 @@
-#Company Name: Software Box
-#Development Team: Finn, Shea, Max
-#Scrum Master: Max
+Company Name: Software Box
+Development Team: Finn, Shea, Max
+Scrum Master: Max
 
 Description of the Project:
 	Our project is an attempt to make a very basic social media esc type website titled, “Your Space”. (Name subject to change, patent pending). Finn, Max, and Shea are the creators of this project. Your Space will have the basic operations of logging in, creating an account, and linking emails and passwords to an account. We want all of the interfaces to be simple and easy to use. The website will be created with Django, and will most likely use many online libraries to function. 
