@@ -1,5 +1,7 @@
 Company Name: Software Box
+
 Development Team: Finn, Shea, Max
+
 Scrum Master: Max
 
 Description of the Project:
