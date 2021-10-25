@@ -1,4 +1,7 @@
-# SoftwareBox
+#Company Name: Software Box
+#Development Team: Finn, Shea, Max
+#Scrum Master: Max
+
 Description of the Project:
 	Our project is an attempt to make a very basic social media esc type website titled, “Your Space”. (Name subject to change, patent pending). Finn, Max, and Shea are the creators of this project. Your Space will have the basic operations of logging in, creating an account, and linking emails and passwords to an account. We want all of the interfaces to be simple and easy to use. The website will be created with Django, and will most likely use many online libraries to function. 
 	Your Space will have the basic tools of pretty much every social media site. We want users to be able to have a profile picture, post status updates, and create comments on their own, and other people's posts. Users will be able to create and delete only their own posts and comments. All users will also have a homepage that represents their little corner of Your Space. Users should be able to comment on other people’s homepage posts, but shouldn't be able to alter any of the other information.
